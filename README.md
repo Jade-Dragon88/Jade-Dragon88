@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Овчинников Олег | JavaScript и React разработка
+  Овчинников Олег | JS и React разработка
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
