@@ -14,7 +14,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </span>
 <span>
-  <h3>Позвольте представиться:</h3>
+  <h3 style="color:red">Позвольте представиться:</h3>
 </span>
 <p>
 Я - JavaScript и React-разработчик<br>
