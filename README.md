@@ -85,10 +85,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<table>
+<table border="0">
   <tbody>
     <tr>
-      <td>
+      <td bordercolor="white">
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
           &nbsp;
