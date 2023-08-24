@@ -143,7 +143,7 @@
 
 ---
 
-![Jade-Dragon88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt)
+![Jade-Dragon88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt&hide=stars,commits,prs,issues,contribs)
 
 
 
