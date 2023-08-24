@@ -44,9 +44,9 @@
 ### :hammer_and_wrench: Языки и технологии:
 
 <table border="0">
-  <tbody>
-    <tr>
-      <td bordercolor="white">
+  <tbody border="0">
+    <tr border="0">
+      <td border="0" bordercolor="white">
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
           &nbsp;
@@ -82,7 +82,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="50" height="50"/>
         </div>
       </td>
-      <td>
+      <td border="0">
         <div>
           <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark" />
         </div>
