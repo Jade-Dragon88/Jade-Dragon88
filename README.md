@@ -6,10 +6,10 @@
   <p>1 год профессиональной разработки на JavaScript и PowerShell<br>
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
+<h3> ... </h3>
 
 
-
-<div>
+<div align="right">
   <a href="https://nn.hh.ru/resume/fd4ab6cfff06090a860039ed1f4d5a324c7945">
     <img src="https://img.shields.io/badge/HeadHunter-red?logo=headhunter&logoColor=white&style=flat"></img>
   </a>
