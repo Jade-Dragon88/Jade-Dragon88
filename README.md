@@ -126,7 +126,6 @@
       </td>
       <td>
         <div>
-          ![img_alt](https://github.com/Jade-Dragon88/Jade-Dragon88/blob/main/Lang_stats.png)
           <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark" />
         </div>
       </td>
