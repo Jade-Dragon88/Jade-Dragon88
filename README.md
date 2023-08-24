@@ -139,11 +139,11 @@
 ---
 
 ### :fire: Моя статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=donut)]
 
 ---
 
-![Jade-Dragon88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt&hide=rps,issues,contribs)
+![Jade-Dragon88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
 
 
 
