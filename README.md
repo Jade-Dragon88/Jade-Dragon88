@@ -42,14 +42,11 @@
 
 
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 ---
 
 ### :hammer_and_wrench: Языки и технологии:
 
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
   &nbsp;
@@ -86,9 +83,59 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="50" height="50"/>
+        </div>
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>
+        </div>
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>
+        </div>  
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>
+          &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="50" height="50"/>
+        </div>
+      </td>
+      <td>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 ---
 
 ### :fire: Моя статистика:
-
 
