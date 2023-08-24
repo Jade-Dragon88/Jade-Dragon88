@@ -1,7 +1,6 @@
 
 <h1 align="center">
   Овчинников Олег | JS и React разработка
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h2 align="center">
   <p>1 год профессиональной разработки на JavaScript и PowerShell</p>
@@ -10,7 +9,7 @@
 
 ---
 
-<h3>Позвольте представиться:</h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><h3>Позвольте представиться:</h3>
 Я - JavaScript и React-разработчик<br>
 По своей основной деятельности занимаюсь поддержкой корпоративных систем,<br>
 а так же профессиональной разработкой на стеке<br>
