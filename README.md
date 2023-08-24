@@ -2,13 +2,10 @@
 <h1 align="center">
   Овчинников Олег | JS и React разработка
 </h1>
-<h2 align="center">
+<h3 align="center">
   <p>1 год профессиональной разработки на JavaScript и PowerShell</p>
   <p>1 год фриланса и 3 года в WEB-разработке</p>
-</h2>
-
----
-
+</h3>
 
 <span>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
