@@ -6,7 +6,20 @@
   <p>1 год профессиональной разработки на JavaScript и PowerShell<br>
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
+
+
+
+<div>
+  <a href="https://nn.hh.ru/resume/fd4ab6cfff06090a860039ed1f4d5a324c7945">
+    <img src="https://img.shields.io/badge/HeadHunter-red?logo=headhunter&logoColor=white&style=flat"></img>
+  </a>
+  <a href="https://www.linkedin.com/in/oleg-ovchinnikov-2bab08202/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></img>
+  </a>
+</div>
+
 ---
+
 <span>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </span>
@@ -23,8 +36,7 @@ Misrosoft SQL Server + PowerShell + Native JavaScript.<br>
 В свободное от работы время веду собственные JS-проекты<br>
 С ними Вы сможете ознакомиться на данной странице<br>
 Люблю решать интересные JS-задачки, прокачивая логику и алгоритмы<br>
-С удовольствием провожу время с женой<br>
-Планирую детей</p>
+С удовольствием провожу время с женой</p>
 
 
 
@@ -37,17 +49,4 @@ Misrosoft SQL Server + PowerShell + Native JavaScript.<br>
 
 
 
-<!--
-**Jade-Dragon88/Jade-Dragon88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
