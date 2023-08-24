@@ -39,51 +39,9 @@
 С удовольствием провожу время с женой</p>
 
 
-
-
-
 ---
 
 ### :hammer_and_wrench: Языки и технологии:
-
-<!--
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="50" height="50"/>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>
-</div>  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="50" height="50"/>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <table border="0">
   <tbody>
@@ -133,33 +91,20 @@
   </tbody>
 </table>
 
-
-
-
-
 ---
 
 ### :fire: Моя статистика:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&card_width=400)
 
----
-
-![Jade-Dragon88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
 
 
 
-<!--
-<a target="_blank" 
-   rel="noopener noreferrer nofollow" 
-   href="https://camo.githubusercontent.com/8ac5da1beb75cae2a0bbb309645be15ea09940a03b250351e0d934a426b1dad7/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d46696c696d6f6e6f76416c65786579266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b">
 
 
-  <img height="195px" 
-     align="right" 
-     alt="webDev's Github Languages" 
-     src="https://camo.githubusercontent.com/8ac5da1beb75cae2a0bbb309645be15ea09940a03b250351e0d934a426b1dad7/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d46696c696d6f6e6f76416c65786579266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" 
-     data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&amp;layout=compact&amp;theme=vision-friendly-dark" 
-     style="max-width: 100%;">
 
-</a>
--->
+
+
+
+
+
+
