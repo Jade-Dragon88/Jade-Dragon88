@@ -139,7 +139,7 @@
 ---
 
 ### :fire: Моя статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&card_width=500)]
 
 ---
 
