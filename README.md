@@ -9,7 +9,14 @@
 
 ---
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><h3>Позвольте представиться:</h3>
+
+<span>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</span>
+<span>
+  <h3>Позвольте представиться:</h3>
+</span>
+<p>
 Я - JavaScript и React-разработчик<br>
 По своей основной деятельности занимаюсь поддержкой корпоративных систем,<br>
 а так же профессиональной разработкой на стеке<br>
