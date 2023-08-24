@@ -139,13 +139,13 @@
 ---
 
 ### :fire: Моя статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Dragon88&theme=vision-friendly-dark&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 
-
+<!--
 <a target="_blank" 
    rel="noopener noreferrer nofollow" 
    href="https://camo.githubusercontent.com/8ac5da1beb75cae2a0bbb309645be15ea09940a03b250351e0d934a426b1dad7/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d46696c696d6f6e6f76416c65786579266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b">
@@ -159,3 +159,4 @@
      style="max-width: 100%;">
 
 </a>
+-->
