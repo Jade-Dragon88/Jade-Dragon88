@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/HeadHunter-red?logo=headhunter&logoColor=white&style=flat"></img>
   </a>
   <a href="https://www.linkedin.com/in/oleg-ovchinnikov-2bab08202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></img>
+    <img src="https://img.shields.io/badge/oleg-ovchinnikov-blue?logo=linkedin&logoColor=white&style=flat"></img>
   </a>
 </h3>
 
