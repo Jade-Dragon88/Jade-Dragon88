@@ -41,7 +41,6 @@
 Люблю решать интересные JS-задачи, прокачивая логику и алгоритмы<br>
 С удовольствием провожу время с женой</p>
 
-
 ---
 
 ### :hammer_and_wrench: Языки и технологии:
@@ -87,7 +86,7 @@
       </td>
       <td border="0" bordercolor="white">
         <div>
-          <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark" />
+          <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark&card_width=550" />
         </div>
       </td>
     </tr>
