@@ -86,7 +86,7 @@
       </td>
       <td border="0" bordercolor="white">
         <div>
-          <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark&card_width=325" />
+          <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark&card_width=345" />
         </div>
       </td>
     </tr>
