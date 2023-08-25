@@ -10,7 +10,7 @@
 
 <h3 align="right">
   <a href="https://t.me/Nn_Ovchinnikov_Oleg">
-    <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=telegram&logoColor=white&style=social">
+    <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=telegram&logoColor=white&style=flat">
   </a>
   <a href="https://nn.hh.ru/resume/fd4ab6cfff06090a860039ed1f4d5a324c7945">
     <img src="https://img.shields.io/badge/HH-Ovchinnikov-red?labelColor=red&logoColor=white&style=flat">
@@ -86,7 +86,7 @@
       </td>
       <td border="0" bordercolor="white">
         <div>
-          <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark&card_width=345" />
+          <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Dragon88&layout=compact&theme=vision-friendly-dark&card_width=345&custom_title=На_чём_я_пишу" />
         </div>
       </td>
     </tr>
