@@ -10,7 +10,7 @@
 
 <h3 align="right">
   <a href="https://nn.hh.ru/resume/fd4ab6cfff06090a860039ed1f4d5a324c7945">
-    <img src="https://img.shields.io/badge/hh_|-Ovchinnikov-red?labelColor=red&logoColor=white&style=flat"></img>
+    <img src="https://img.shields.io/badge/HH-Ovchinnikov-red?labelColor=red&logoColor=white&style=flat"></img>
   </a>
   <a href="https://www.linkedin.com/in/oleg-ovchinnikov-2bab08202/">
     <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=linkedin&logoColor=white&style=flat"></img>
