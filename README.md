@@ -95,7 +95,13 @@
 
 ---
 
-### ✍️: Мои коммиты:
+### 🧾 Мои репозитории:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=marvelDC)](https://github.com/Jade-Dragon88/marvelDC)
+
+---
+
+### ✍️ Мои коммиты:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
