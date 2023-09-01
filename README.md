@@ -8,7 +8,7 @@
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
 
-<table>
+<table width="100%">
   <tbody>
     <tr>
       <td>
@@ -72,10 +72,10 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
 
 ### :hammer_and_wrench: Языки и технологии:
 
-<table border="0" bordercolor="white">
-  <tbody border="0" bordercolor="white">
-    <tr border="0" bordercolor="white">
-      <td border="0" bordercolor="white">
+<table border="0" width="100%">
+  <tbody border="0">
+    <tr border="0" >
+      <td border="0">
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
           &nbsp;
