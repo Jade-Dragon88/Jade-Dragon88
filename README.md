@@ -95,7 +95,7 @@
 
 ---
 
-### 🗒️: Мои коммиты:
+### ✍️: Мои коммиты:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
