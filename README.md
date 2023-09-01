@@ -20,6 +20,7 @@
   </a>
 </h3>
 
+[![codewars](https://www.codewars.com/users/Jade-Dragon88/badges/small)](https://www.codewars.com/users/Jade-Dragon88)
 ---
 
 <span>
