@@ -8,7 +8,7 @@
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
 
-<h3 align="right">
+<span align="right">
   <a href="https://t.me/Nn_Ovchinnikov_Oleg">
     <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=telegram&logoColor=white&style=flat">
   </a>
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/oleg-ovchinnikov-2bab08202/">
     <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=linkedin&logoColor=white&style=flat">
   </a>
-</h3>
+</span>
 
 [![codewars](https://www.codewars.com/users/Jade-Dragon88/badges/micro)](https://www.codewars.com/users/Jade-Dragon88)
 ---
@@ -109,7 +109,7 @@
 
 ### ✍️ Мои коммиты:
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![commits](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
