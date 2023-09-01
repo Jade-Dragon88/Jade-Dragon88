@@ -95,11 +95,7 @@
 
 ---
 
-### :fire: Моя статистика:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Dragon88&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
-
----
+### 🗒️: Мои коммиты:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
