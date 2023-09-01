@@ -26,7 +26,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </span>
 <span>
-  <b>Позвольте представиться:</b>
+  <b>Nice to see you! Немного о себе:</b>
 </span>
 <p> </p>
 <p>
