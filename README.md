@@ -8,21 +8,44 @@
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
 
-<span align="right">
-  <a href="https://t.me/Nn_Ovchinnikov_Oleg">
-    <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=telegram&logoColor=white&style=flat">
-  </a>
-  <a href="https://nn.hh.ru/resume/fd4ab6cfff06090a860039ed1f4d5a324c7945">
-    <img src="https://img.shields.io/badge/HH-Ovchinnikov-red?labelColor=red&logoColor=white&style=flat">
-  </a>
-  <a href="https://www.linkedin.com/in/oleg-ovchinnikov-2bab08202/">
-    <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=linkedin&logoColor=white&style=flat">
-  </a>
-</span>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <h3 tabindex="-1" dir="auto">
+          <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+              <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"> 
+              </path>
+            </svg>
+          </a>
+          <a href="https://www.codewars.com/users/Jade-Dragon88" rel="nofollow">
+            <img 
+src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0bb5d1a62b0aca59bf6d6e7dba/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f4a6164652d447261676f6e38382f6261646765732f6d6963726f" 
+              alt="codewars" 
+              data-canonical-src="https://www.codewars.com/users/Jade-Dragon88/badges/micro" style="max-width: 100%;">
+          </a>
+        </h3>
+      </td>
+      <td>
+        <h3 align="right">
+          <a href="https://t.me/Nn_Ovchinnikov_Oleg">
+            <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=telegram&logoColor=white&style=flat">
+          </a>
+          <a href="https://nn.hh.ru/resume/fd4ab6cfff06090a860039ed1f4d5a324c7945">
+            <img src="https://img.shields.io/badge/HH-Ovchinnikov-red?labelColor=red&logoColor=white&style=flat">
+          </a>
+          <a href="https://www.linkedin.com/in/oleg-ovchinnikov-2bab08202/">
+            <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=linkedin&logoColor=white&style=flat">
+          </a>
+        </h3>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### [![codewars](https://www.codewars.com/users/Jade-Dragon88/badges/micro)](https://www.codewars.com/users/Jade-Dragon88)
 
-<h2 tabindex="-1" dir="auto"><a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://www.codewars.com/users/Jade-Dragon88" rel="nofollow"><img src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0bb5d1a62b0aca59bf6d6e7dba/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f4a6164652d447261676f6e38382f6261646765732f6d6963726f" alt="codewars" data-canonical-src="https://www.codewars.com/users/Jade-Dragon88/badges/micro" style="max-width: 100%;"></a></h2>
+
 
 ---
 
