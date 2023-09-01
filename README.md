@@ -8,11 +8,6 @@
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
 
-
-
-
-
-
 <div>
   <span>
     <div tabindex="-1" dir="auto" >
@@ -45,20 +40,6 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
   </span>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <span>
@@ -82,7 +63,7 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
 
 ---
 
-### :hammer_and_wrench: Языки и технологии:
+### :hammer_and_wrench: Языки и технологии, которыми я владею:
 
 <table border="0" width="100%">
   <tbody border="0">
