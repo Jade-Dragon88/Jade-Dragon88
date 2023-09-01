@@ -8,10 +8,14 @@
   1 год фриланса и 3 года в WEB-разработке</p>
 </h3>
 
-<table width="100%">
-    <tr>
-      <td>
-        <div tabindex="-1" dir="auto">
+
+
+
+
+
+<div>
+  <span>
+    <div tabindex="-1" dir="auto" >
           <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
               <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"> 
@@ -25,9 +29,9 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
               data-canonical-src="https://www.codewars.com/users/Jade-Dragon88/badges/micro" style="max-width: 100%;">
           </a>
         </div>
-      </td>
-      <td>
-        <div align="right">
+  </span>
+  <span>
+            <div align="right">
           <a href="https://t.me/Nn_Ovchinnikov_Oleg">
             <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=telegram&logoColor=white&style=flat">
           </a>
@@ -38,9 +42,19 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
             <img src="https://img.shields.io/badge/Ovchinnikov-blue?logo=linkedin&logoColor=white&style=flat">
           </a>
         </div>
-      </td>
-    </tr>
-</table>
+  </span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
