@@ -97,7 +97,12 @@
 
 ### 🧾 Мои репозитории:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=marvelDC)](https://github.com/Jade-Dragon88/marvelDC)
+[![marvelDC](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=marvelDC)](https://github.com/Jade-Dragon88/marvelDC)
+[![hhResumeAutoupdate](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=hhResumeAutoupdate)](https://github.com/Jade-Dragon88/hhResumeAutoupdate)
+[![ChatTest](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=ChatTest)](https://github.com/Jade-Dragon88/ChatTest)
+[![irvas_windows](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=irvas_windows)](https://github.com/Jade-Dragon88/irvas_windows)
+[![tic_tac_toe_unlim](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=tic_tac_toe_unlim)](https://github.com/Jade-Dragon88/tic_tac_toe_unlim)
+[![coolclever_test](https://github-readme-stats.vercel.app/api/pin/?username=Jade-Dragon88&repo=coolclever_test)](https://github.com/Jade-Dragon88/coolclever_test)
 
 ---
 
