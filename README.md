@@ -72,7 +72,7 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>
           &nbsp;
-          //<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/> -->
           &nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
           &nbsp;
