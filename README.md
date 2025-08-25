@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Овчинников Олег | Low-Code, n8n, JS, Py, PowerShell
+  Овчинников Олег | JS и React разработка
 </h1>
 
 <h3 align="center">
