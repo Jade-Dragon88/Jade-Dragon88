@@ -53,7 +53,7 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
 Я - JavaScript и React-разработчик<br>
 По своей основной деятельности занимаюсь поддержкой корпоративных систем,<br>
 а так же профессиональной разработкой на стеке<br>
-<b>Misrosoft SQL Server + PowerShell + Native JavaScript</b>.<br>
+<b>Microsoft SQL Server + PowerShell + Native JavaScript</b>.<br>
 Реализовал проект "Электронный журнал" по учету передачи между сотрудниками<br>
 корпоративных ноутбуков (SQL Server + PS Polaris + Native JS)<br>
 В свободное от работы время веду собственные JS-проекты<br>
@@ -65,7 +65,7 @@ src="https://camo.githubusercontent.com/2fcedbf7f29fd121bd130629cdc3c50b77347f0b
 
 ### :hammer_and_wrench: Языки и технологии, которыми я владею:
 
-<table border="0" width="100%">
+<table border="0" width="100%" align="center">
   <tbody border="0">
     <tr border="0" >
       <td border="0">
